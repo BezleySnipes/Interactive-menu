@@ -3,7 +3,7 @@ guid: 98aadb8be4e07d44885d00ac38db3987
 timeCreated: 1453828918
 licenseType: Free
 ModelImporter:
-  serializedVersion: 18
+  serializedVersion: 19
   fileIDToRecycleName:
     100000: Blue
     100002: Blue Blocks
@@ -383,6 +383,78 @@ ModelImporter:
     4300138: Object_117
     4300140: Object_119
     4300142: Object_121
+    6400000: Object_1
+    6400002: Object_101
+    6400004: Object_103
+    6400006: Object_105
+    6400008: Object_107
+    6400010: Object_109
+    6400012: Object_11
+    6400014: Object_111
+    6400016: Object_113
+    6400018: Object_115
+    6400020: Object_117
+    6400022: Object_119
+    6400024: Object_121
+    6400026: Object_123
+    6400028: Object_125
+    6400030: Object_127
+    6400032: Object_129
+    6400034: Object_13
+    6400036: Object_131
+    6400038: Object_133
+    6400040: Object_135
+    6400042: Object_137
+    6400044: Object_139
+    6400046: Object_141
+    6400048: Object_143
+    6400050: Object_15
+    6400052: Object_17
+    6400054: Object_19
+    6400056: Object_21
+    6400058: Object_23
+    6400060: Object_25
+    6400062: Object_27
+    6400064: Object_29
+    6400066: Object_3
+    6400068: Object_31
+    6400070: Object_33
+    6400072: Object_35
+    6400074: Object_37
+    6400076: Object_39
+    6400078: Object_41
+    6400080: Object_43
+    6400082: Object_45
+    6400084: Object_47
+    6400086: Object_49
+    6400088: Object_5
+    6400090: Object_51
+    6400092: Object_53
+    6400094: Object_55
+    6400096: Object_57
+    6400098: Object_59
+    6400100: Object_61
+    6400102: Object_63
+    6400104: Object_65
+    6400106: Object_67
+    6400108: Object_69
+    6400110: Object_7
+    6400112: Object_71
+    6400114: Object_73
+    6400116: Object_75
+    6400118: Object_77
+    6400120: Object_79
+    6400122: Object_81
+    6400124: Object_83
+    6400126: Object_85
+    6400128: Object_87
+    6400130: Object_89
+    6400132: Object_9
+    6400134: Object_91
+    6400136: Object_93
+    6400138: Object_95
+    6400140: Object_97
+    6400142: Object_99
   materials:
     importMaterials: 1
     materialName: 0
@@ -390,6 +462,7 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
+    resampleRotations: 1
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
@@ -397,9 +470,9 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     animationCompression: 1
-    animationRotationError: .5
-    animationPositionError: .5
-    animationScaleError: .5
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
     clipAnimations: []
@@ -408,7 +481,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
@@ -423,20 +496,19 @@ ModelImporter:
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    splitTangentsAcrossUV: 1
     normalImportMode: 0
-    tangentImportMode: 1
+    tangentImportMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
     human: []
     skeleton: []
-    armTwist: .5
-    foreArmTwist: .5
-    upperLegTwist: .5
-    legTwist: .5
-    armStretch: .0500000007
-    legStretch: .0500000007
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
     hasTranslationDoF: 0
